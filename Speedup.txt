@@ -1,0 +1,5 @@
+AAC GPU time:  518 ms
+GCC CPU time: 39296 ms
+
+Speedup: 75.86x
+Tested on GTX 970
